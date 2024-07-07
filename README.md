@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/MustafaMerchant21/MustafaMerchant21/assets/101447345/2993ecd7-b896-4632-9946-33d87e1fd2a7)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center">Hi 👋, I'm Mustafa Merchant</h1>
-<h3 align="center">A passionate developer :computer: from India</h3>
+<h3 align="center">A passionate developer :computer: from <span style="color:orange"> In</span><span style="color:white">d</span><span style="green">ia</h3>
 
 
 ###  
