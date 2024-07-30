@@ -18,9 +18,9 @@
 <p align="left"> <a href="https://twitter.com/Mmerchant53" target="blank"><img src="https://img.shields.io/twitter/follow/Mmerchant53?logo=twitter&style=for-the-badge" alt="mmerchant53" /></a> </p>
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🌱 I’m currently **Exploring the Tech World**
+- 🌱 I’m currently **Building awesome applications**
 
-- 💬 Ask me about **Web and Android**
+- 💬 Ask me about **Flutter & Android**
 
 - 📫 How to reach me **mr.merchant53@gmail.com**
 
@@ -28,12 +28,12 @@
 
 
 <h3 align="left"> ⚡ Skills ⚡</h3>
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,php,html,css,tailwind,androidstudio,flutter,opencv,nodejs,mysql,sqlite,firebase,flask,ai,ps,ae,xd,figma,linux,notion&theme=dark&perline=8" alt = "my_skills">
+<img src="https://skillicons.dev/icons?i=flutter,java,py,c,cpp,js,php,html,css,tailwind,androidstudio,opencv,nodejs,mysql,sqlite,firebase,flask,ai,ps,ae,xd,figma,linux,notion&theme=dark&perline=8" alt = "my_skills">
 
-<h2 align="center"> My Stats </h2>
+<h2 align="center"> ⚡ My Stats ⚡ </h2>
 <div align="center" >
  <img src="https://github-readme-stats.vercel.app/api?username=mustafamerchant21&show_icons=true&theme=dark" height="220" alt="streak graph"  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafamerchant21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafamerchant21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 <h4></h4>
 <div align="center">
