@@ -28,7 +28,7 @@
 
 
 <h3 align="left"> ⚡ Skills ⚡</h3>
-<img src="https://skillicons.dev/icons?i=flutter,java,py,c,cpp,js,php,html,css,tailwind,androidstudio,opencv,nodejs,mysql,sqlite,firebase,flask,ai,ps,ae,xd,figma,linux,notion&theme=dark&perline=6" alt = "my_skills">
+<img src="https://skillicons.dev/icons?i=flutter,java,py,c,cpp,js,php,html,css,tailwind,androidstudio,opencv,nodejs,mysql,sqlite,firebase,flask,ai,ps,ae,xd,figma,linux,notion&theme=dark&perline=5" alt = "my_skills">
 
 <h2 align="center"> ⚡ My Stats ⚡ </h2>
 <div align="center" >
