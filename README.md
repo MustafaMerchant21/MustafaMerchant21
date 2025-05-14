@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently **Building awesome applications**
 
-- 💬 Ask me about **Flutter & Android**
+- 💬 Ask me about **Web Development and Cross-platform development**
 
 - 📫 How to reach me **mr.merchant53@gmail.com**
 
