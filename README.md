@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently **Building awesome applications**
 
-- 💬 Ask me about **Web Development and Cross-platform development**
+- 💬 Ask me about **AI and modern enterprise-grade systems**
 
 - 📫 How to reach me **mr.merchant53@gmail.com**
 
