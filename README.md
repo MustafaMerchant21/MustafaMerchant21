@@ -200,7 +200,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mustafamerchant21&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </p>
 
-### 🐍 Contribution Snake
+### Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/mustafamerchant21/mustafamerchant21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
