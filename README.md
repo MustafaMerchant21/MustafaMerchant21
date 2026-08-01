@@ -62,7 +62,7 @@
         <li>📊 <code><strong>AnomalyIQ</strong></code> - Unsupervised ML · Bank auditor</li>
         <li>🔗 <code><strong>Hybrid RAG Pipeline</strong></code> - HackRx 6.0 · LangGraph</li>
         <li>🤖 <code><strong>Compliance Agent</strong></code> - 3-layer agentic · Code Apex</li>
-        <li>📱 <code><strong>Healthcare App</strong></code> - 30+ screens · Flutter · Production</li>
+        <li>📱 <code><strong>Healthcare App</strong></code> - 30+ screens · Android · Production</li>
       </ul>
     </td>
     <td valign="top" width="45%">
