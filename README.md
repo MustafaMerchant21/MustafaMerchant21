@@ -3,7 +3,7 @@
 
 <!-- ════════════════════════════════════════ TYPING ANIMATION ══ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+in+FinTech+%F0%9F%94%90;LLM+Engineering+%26+Agentic+Systems+%E2%9A%A1;99.5%25+Accuracy+on+Fraud+Detection+%F0%9F%8E%AF;Solo+Founder+%7C+Final+Year+CSE+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+in+Architecture+Designing+Space+%F0%9F%94%90;LLM+Engineering+%26+Agentic+Systems+%E2%9A%A1;99.5%25+Accuracy+on+Fraud+Detection+%F0%9F%8E%AF;Solo+Founder+%7C+Final+Year+CSE+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -68,15 +68,14 @@
     <td valign="top" width="45%">
       <h3>🔭 Currently Building</h3>
       <blockquote>
-        <strong>[Stealth Mode]</strong> - FinTech Compliance SaaS for the Indian Market<br/><br/>
-        Working on a B2B product in the compliance space (details coming soon).<br/><br/>
-        <code>FastAPI · React · SQL</code>
+        <strong>[Stealth Mode]</strong> - AI Native Architecture Platform<br/><br/>
+        (details coming soon)<br/><br/>
+        <code>FastAPI · React · PostgreSQL</code>
       </blockquote>
       <h3>🎯 Focus Areas</h3>
       <p>
         &nbsp;🤖 &nbsp;LLM Engineering<br/>
         &nbsp;⚡ &nbsp;Agentic Systems<br/>
-        &nbsp;🔐 &nbsp;Financial Crime AI<br/>
         &nbsp;📦 &nbsp;B2B SaaS Products<br/>
         &nbsp;📱 &nbsp;Mobile &amp; Full-Stack
       </p>
